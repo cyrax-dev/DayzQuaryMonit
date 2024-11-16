@@ -1,0 +1,5 @@
+disnake==2.9.2
+dynaconf==3.2.6
+python-a2s==1.4.1
+loguru==0.7.2
+setuptools==75.5.0

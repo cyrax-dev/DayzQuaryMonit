@@ -1,0 +1,20 @@
+{
+  "servers": [
+    {
+      "name": "ServerName",
+      "token": "BotToken",
+      "ip": "127.0.0.1",
+      "port": 2305,
+      "status_online": "🟢 Online {player}/{slot} | {emoji} {time}",
+      "status_offline": "🔴 Server OFF"
+    },
+    {
+      "name": "ServerName",
+      "token": "BotToken",
+      "ip": "127.0.0.1",
+      "port": 2305,
+      "status_online": "🟢 Online {player}/{slot} | {emoji} {time}",
+      "status_offline": "🔴 Server OFF"
+    }
+  ]
+}
