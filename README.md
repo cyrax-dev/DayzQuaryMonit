@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/cyrax-dev/crxsnake) ![PyPI - Python Version](https://img.shields.io/badge/python-3.10%2B-blue) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/cyrax-dev/crxsnake/total) ![GitHub License](https://img.shields.io/github/license/cyrax-dev/crxsnake)
+![GitHub top language](https://img.shields.io/github/languages/top/cyrax-dev/crxsnake) ![PyPI - Python Version](https://img.shields.io/badge/python-3.10%2B-blue) ![GitHub License](https://img.shields.io/github/license/cyrax-dev/crxsnake)
 
 ### Discord bot for monitoring DayZ servers
 > The bot takes information from the Dayz server through the Query port
