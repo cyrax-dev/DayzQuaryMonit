@@ -22,5 +22,5 @@ echo ---------------------------------
 pip install -r requirements.txt
 cls
 
-python -B main.py
+python -B run.py
 pause
