@@ -16,9 +16,9 @@ async def start_bot(server_dict: Dict[str, Any]) -> None:
         await bot.start(server_dict["token"])
 
     except errors.LoginFailure:
-        log.error(f"[BOT] Неверный токен {server_dict["name"]}")
+        log.error(f"[BOT] Неверный токен {server_dict['name']}")
     except Exception as e:
-        log.error(f"[BOT] Произошла ошибка при запуске {server_dict["name"]}\n╰─> Ошибка: {e}")
+        log.error(f"[BOT] Произошла ошибка при запуске {server_dict['name']}\n╰─> Ошибка: {e}")
 
 
 async def main() -> None:
