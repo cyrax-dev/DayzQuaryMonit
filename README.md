@@ -11,6 +11,7 @@
 | Software required | Installation link |
 | ------ | ------ |
 | Python | [Download the installer from the official website ↗](https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe)|
+| Python installation | [View instructions on YouTube ↗](https://www.youtube.com/watch?v=Gt8PcB_RD04)|
 | Discord Token | [Create a Discord app ↗](https://discord.com/developers/applications/)|
 
 ### 💥 Installation
